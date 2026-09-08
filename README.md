@@ -1,1 +1,1 @@
-#  clas of GH-300 
+# Class of GH-300
